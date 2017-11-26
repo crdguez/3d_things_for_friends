@@ -6,7 +6,7 @@ Repositorio de piezas que vaya modelando para peticiones de amigos.
 
 ## Instrucciones
 
-En la carpeta correspondiente a la pieza aparecerá:
+Ir a [aquí](https://github.com/crdguez/3d_things_for_friends?files=1). En la carpeta correspondiente a la pieza aparecerá:
 
 
 - la fuente en **FreeCad** por si se quiere modificar y/o mejorar (fichero **.fcstd**)
