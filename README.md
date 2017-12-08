@@ -1,6 +1,6 @@
 # Objetos 3d para amigos
 
-Repositorio de piezas que vaya modelando para peticiones de amigos.
+Repositorio de piezas que vaya modelando para peticiones de amig@s.
 
 ![](./calo_previo.png) 
 
